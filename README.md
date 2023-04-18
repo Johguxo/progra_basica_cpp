@@ -18,7 +18,7 @@ Curso de programación basica en C++ UNI
 ## Grabaciones
 
 - [✔️] ♾️ 1 > [Video 01: Variables, Tipo de datos](https://drive.google.com/file/d/1QU2dUSxPeospwpj9TAsfs8sM4iJ1F9GF/view?usp=share_link)
-- [✔️] ♾️ 2 > [Video 02: Condicionales]
+- [✔️] ♾️ 2 > [Video 02: Condicionales](https://drive.google.com/file/d/1rZdz8xg0wxjc9IKqGIZE-iDxMnWBHzCE/view?usp=share_link)
 - [✔️] ♾️ 3 > [Video 03: Bucles]
 
 ## Extra Resources
